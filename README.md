@@ -1,17 +1,13 @@
-## Fruit Inventory App 🍇
-
-A simple Kotlin Android app for fruit shops to track their inventory.  
-Shop owners can add fruits, set prices, and monitor stock levels with visual indicators (yellow and red borders) to show when stock is low.  
-
+## MoodMoji App 
 The code for this project is currently in the **master** branch.
 
-- Add fruits with name, price, and amount.
-- Track stock and see fruits with low or empty stock.
+**Description**  
+The cute animated design-inspired mood-tracking app allows users to input their daily thoughts and emotions through emojis and journal writing.
 
-<br>
+**App Concept**  
+Use Case: The app helps users develop a habit of self-reflection and emotional awareness by providing a simple, visually appealing way to track their daily moods and thoughts. Individuals aged 13 and above who enjoy introspection and journaling, as well as those seeking a supportive tool to track and better understand their emotions.
 
-### **Visual indicators:**
+---
 
-- 🔴 **Red border**: Stock is very low
-- 🟡 **Yellow border**: Stock is getting low
-- Default border: Normal stock
+**Group Project 👥**  
+This app was developed as a **group project** and posted under the university account **cc231036** 🎓. Contributors include cc231045.
